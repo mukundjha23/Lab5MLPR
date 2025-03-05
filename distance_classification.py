@@ -2,4 +2,4 @@ import numpy as np
 import pandas as pd
 import cv2
 
-print(cv2.__verion__)
+print(cv2.__version__)

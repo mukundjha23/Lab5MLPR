@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-11-10.0.22631-SP0",
+  "python":  "3.12.5",
+  "startedAt":  "2025-03-05T18:53:06.619348Z",
+  "program":  "c:\\Users\\jham8\\mlprlab5docker\\Lab 5-Spring 2025.ipynb",
+  "git":  {
+    "remote":  "https://github.com/mukundjha23/Lab5MLPR.git",
+    "commit":  "acc32e22f3016992e6517e84d62af67b93145e9d"
+  },
+  "email":  "mukundjha2307@gmail.com",
+  "root":  "c:\\Users\\jham8\\mlprlab5docker",
+  "host":  "LAPTOP-T8FO7UM6",
+  "username":  "jham8",
+  "executable":  "c:\\Users\\jham8\\mlprlab5docker\\venv\\Scripts\\python.exe",
+  "codePathLocal":  "Lab 5-Spring 2025.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  16,
+  "disk":  {
+    "/":  {
+      "total":  "510241607680",
+      "used":  "253042630656"
+    }
+  },
+  "memory":  {
+    "total":  "16541634560"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  16
+  }
+}
