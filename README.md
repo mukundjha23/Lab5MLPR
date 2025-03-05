@@ -9,11 +9,11 @@ Below are the generated plots from the classification and clustering process:
 
 ![Plot 1](https://i.imgur.com/P7U8fQQ.png)  
 
-![Plot 2](https://imgur.com/a/15rQKa5)  
+![Plot 2](https://imgur.com/a/fAPXVoM)  
 
-![Plot 3](https://imgur.com/a/4VSDsc2)  
+![Plot 3](https://imgur.com/a/fHkXqEK)  
 
-![Plot 4](https://imgur.com/a/EXcjtdo)  
+![Plot 4](https://imgur.com/a/o1dn8yc)  
 
 
 ## Report
